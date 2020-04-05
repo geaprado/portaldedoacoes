@@ -13,5 +13,3 @@ Cadastro de doações.
 Consulta de doações por CPF.
 
 Para documentar a API foi utilizado a ferramenta Swagger.
-
-Abaixo segue as capturas de tela da documentação da API.
